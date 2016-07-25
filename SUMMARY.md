@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * Genesis
-   * [1](1.md)
+   * [1](Old Testament/Genesis/1.md)
 
