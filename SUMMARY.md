@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Genesis](genesis.md)
+* [Genesis](Old Testament/Genesis/genesis.md)
    * [1](Old Testament/Genesis/1.md)
 
