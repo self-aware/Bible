@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Genesis](genesis.md)
+* Genesis
    * [1](1.md)
 
