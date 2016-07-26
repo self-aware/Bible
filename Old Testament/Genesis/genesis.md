@@ -1,6 +1,6 @@
 # Genesis
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The name Genesis means “origin.” The book tells about the creation of the world, the origin of human beings, the beginning of sin and suffering in the earth, and about God's way of dealing with people. Genesis can be divided into two main parts:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The name Genesis means “origin.” The book tells about the creation of the earth, the origin of human beings, the beginning of sin and suffering on the earth, and about God's way of dealing with people. Genesis can be divided into two main parts:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chapters 1—11 The creation of the earth and the early history of the human race. Here are the accounts of Adam and Eve, Cain and Abel, Noah and the flood, and the Tower of Babylon.
 
